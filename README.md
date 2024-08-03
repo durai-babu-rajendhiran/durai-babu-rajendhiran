@@ -6,10 +6,9 @@ I am a highly skilled Full Stack Developer with expertise in various technologie
 
 ## Technologies:
 
-- **CodeIgniter:** Extensive experience leveraging the powerful features for efficient web application development.
-- **Laravel:** Proficient in building robust and scalable web applications using Laravel.
 - **React.js:** In-depth knowledge and successful development of user-friendly and interactive interfaces.
 - **Node.js & Express.js:** Proficient in building efficient and scalable server-side applications.
+- **Laravel:** Proficient in building robust and scalable web applications using Laravel.
 
 ## Tools and Platforms:
 

@@ -9,11 +9,12 @@ I am a highly skilled Full Stack Developer with expertise in various technologie
 - **React.js:** In-depth knowledge and successful development of user-friendly and interactive interfaces.
 - **Node.js & Express.js:** Proficient in building efficient and scalable server-side applications.
 - **Laravel:** Proficient in building robust and scalable web applications using Laravel.
-
+- **Next.js:** Proficient in developing high-performance, SEO-friendly React applications with server-side rendering and static site generation.
+- **Django:** Skilled in developing secure and scalable web applications.
+- 
 ## Tools and Platforms:
 
 - **GitHub:** Well-versed in version control and collaborative development.
-- **Django:** Skilled in developing secure and scalable web applications.
 - **Databases:** Proficient in MySQL, PostgreSQL, MongoDB, and MS SQL.
 - **Project Management:** Experienced in Trello for effective task tracking, GitHub for version control and issue tracking, and Postman API for testing and managing APIs.
 

@@ -11,7 +11,7 @@ I am a highly skilled Full Stack Developer with expertise in various technologie
 - **Laravel:** Proficient in building robust and scalable web applications using Laravel.
 - **Next.js:** Proficient in developing high-performance, SEO-friendly React applications with server-side rendering and static site generation.
 - **Django:** Skilled in developing secure and scalable web applications.
-- 
+
 ## Tools and Platforms:
 
 - **GitHub:** Well-versed in version control and collaborative development.

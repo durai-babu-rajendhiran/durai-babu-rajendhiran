@@ -4,15 +4,12 @@
 
 I am a highly skilled Full Stack Developer with expertise in various technologies and databases. Here's an overview of my skills:
 
-![Durai Babu Rajendhoiran GitHub Stats](https://github-readme-stats.vercel.app/api?username=durai-babu-rajendhiran&show_icons=true&count_private=true&theme=neon)
-
 ## Technologies:
-
 - **React.js:** In-depth knowledge and successful development of user-friendly and interactive interfaces.
 - **Node.js & Express.js:** Proficient in building efficient and scalable server-side applications.
-- **Laravel:** Proficient in building robust and scalable web applications using Laravel.
 - **Next.js:** Proficient in developing high-performance, SEO-friendly React applications with server-side rendering and static site generation.
 - **Django:** Skilled in developing secure and scalable web applications.
+- **Laravel:** Proficient in building robust and scalable web applications using Laravel.
 - **Databases:** Proficient in MySQL, PostgreSQL, MongoDB, and MS SQL.
 
 ### Top Languages
@@ -20,5 +17,4 @@ I am a highly skilled Full Stack Developer with expertise in various technologie
 
 ### Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=durai-babu-rajendhiran&hide_title=true&&count_private=true&theme=neon)
-
 

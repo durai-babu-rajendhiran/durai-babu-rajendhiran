@@ -14,7 +14,3 @@ I am a highly skilled Full Stack Developer with expertise in various technologie
 
 ### Top Languages
 ![Durai Babu Rajendhiran Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durai-babu-rajendhiran&layout=compact&hide_title=true&count_private=true&theme=radical)
-
-### Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=durai-babu-rajendhiran&hide_title=true&&count_private=true&theme=neon)
-
